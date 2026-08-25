@@ -1,0 +1,22 @@
+# CMake and Visual Studio build products
+/build/
+.tools/
+.vs/
+*.suo
+*.user
+*.userosscache
+*.VC.db
+*.VC.VC.opendb
+
+# Compiled binaries and intermediate objects
+*.obj
+*.pdb
+*.ilk
+*.recipe
+*.exe
+*.dll
+
+# Local editor and OS files
+.vscode/settings.local.json
+.DS_Store
+Thumbs.db
